@@ -36,9 +36,6 @@ header a:hover {
     font-weight: bold;
     text-decoration: underline #cda76f;
 }
-header a:visited {
-    color: plum;
-}
 header li {
     display: inline;
     padding: 0 2px 0 20px;
