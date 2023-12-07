@@ -415,4 +415,7 @@ small strike {
    .shop {
     display: block;
    }
+   .container1 h1 {
+     width: 100%;
+   }
 }
