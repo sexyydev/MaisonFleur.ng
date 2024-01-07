@@ -59,7 +59,7 @@ header nav {
 #showcase {
     min-height: 400px;
     width: 100%;
-    background: url('../img/showcase.jpg') no-repeat;
+    background: url('showcase.jpg') no-repeat;
     text-align: center;
     background-size: cover;
     margin-top: -42px;
@@ -67,14 +67,14 @@ header nav {
 }
  @keyframes change-background {
    100% {
-        background: url(../img/main.jpg) no-repeat;
+        background: url('main.jpg') no-repeat;
         min-height: 400px;
         width: 100%;
         background-size: cover;
 
     }
      100% {
-        background: url(../img/banner.jpg);
+        background: url('banner.jpg');
         min-height: 400px;
         width: 100%;
         background-size: cover;
@@ -195,7 +195,7 @@ h5 {
 }
 /* services */
 .wigs {
-    background: url(../img/hair.2.png) no-repeat;
+    background: url('hair.2.png') no-repeat;
     min-height: 550px;
     width: 100%;
     background-size: cover;
@@ -234,7 +234,7 @@ h5 {
   
 .revamp {
     margin-top: 3px;
-    background: url(../img/revamp.png) no-repeat;
+    background: url('revamp.png') no-repeat;
     min-height: 550px;
     width: 100%;
     background-size: cover;
@@ -247,7 +247,7 @@ h5 {
 }
 .installation {
     margin-top: 3px;
-    background: url(../img/install.png) no-repeat;
+    background: url('install.png') no-repeat;
     min-height: 550px;
     width: 100%;
     background-size: cover;
@@ -255,7 +255,7 @@ h5 {
 }
 .color {
     margin-top: 3px;
-    background: url(../img/color.png) no-repeat;
+    background: url('color.png') no-repeat;
     min-height: 550px;
     width: 100%;
     background-size: cover;
@@ -263,7 +263,7 @@ h5 {
 }
 .make-up {
     margin-top: 3px;
-    background: url(../img/makeup.png) no-repeat;
+    background: url('makeup.png') no-repeat;
     min-height: 550px;
     width: 100%;
     background-size: cover;
@@ -315,7 +315,7 @@ h3 {
 }
 /* Booking */
 #page-text {
-    background: url(../img/showcase.jpg) no-repeat;
+    background: url('showcase.jpg') no-repeat;
     background-size: cover;
     min-height: 500px;
     width: 100%;
